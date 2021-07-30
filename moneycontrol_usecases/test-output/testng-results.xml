@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58193" started-at="2021-06-07T11:12:16Z" finished-at="2021-06-07T11:13:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58193" started-at="2021-06-07T11:12:16Z" finished-at="2021-06-07T11:13:15Z">
+      <class name="checkCurrencyValue.checkHigherCurrencyValue">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:checkCurrencyValue.checkHigherCurrencyValue@482cd91f]" name="setUp" is-config="true" duration-ms="40324" started-at="2021-06-07T11:12:16Z" finished-at="2021-06-07T11:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getCurrencyValue()[pri:0, instance:checkCurrencyValue.checkHigherCurrencyValue@482cd91f]" name="getCurrencyValue" duration-ms="16221" started-at="2021-06-07T11:12:57Z" finished-at="2021-06-07T11:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCurrencyValue -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:checkCurrencyValue.checkHigherCurrencyValue@482cd91f]" name="closeBrowser" is-config="true" duration-ms="1568" started-at="2021-06-07T11:13:13Z" finished-at="2021-06-07T11:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- checkCurrencyValue.checkHigherCurrencyValue -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
